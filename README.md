@@ -4,11 +4,11 @@
 
  # Tecnologias Usadas
 
- **HTML**
- **CSS**
+ **HTML** <br>
+ **CSS** <br>
  **JAVASCRIPT**
 
  # Bliblioteca Usadas
 
- **Google Fonts**
+ **Google Fonts** <br>
  **Font awesome**

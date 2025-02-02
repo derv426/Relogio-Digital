@@ -1,14 +1,14 @@
-# Relogio-Digital
+# :writing_hand: Relogio-Digital
  relogio digital para treina meu conhecimento em javascript em breve vou está colocando mais coisas
 
 
- # Tecnologias Usadas
+ # :computer: Tecnologias Usadas
 
  **HTML** <br>
  **CSS** <br>
  **JAVASCRIPT**
 
- # Bliblioteca Usadas
+ # :books: Bliblioteca Usadas
 
  **Google Fonts** <br>
  **Font awesome**
